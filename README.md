@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Where-Mental-Wellness-Meets-Metaverse/Where-Mental-Wellness-Meets-Metaverse/main/Screenshot%202025-06-04%20at%2005.19.53.png" alt="HypnoNeuro Banner" width="100%" />
+</p>
+
 # 🧠 Where Mental Wellness Meets the Metaverse
 
 Welcome to the work of Dr. Meg Montañez-Davenport — a pioneer in decentralized mental health and digital healing systems. My mission is to make trauma-informed care safe, private, and radically accessible.
