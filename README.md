@@ -24,7 +24,7 @@ Privacy-first health data platform enabling secure encrypted messaging, practiti
 
 ---
 
-## 🧑‍💻 About Me
+## 👩🏽‍💻 About Me
 **Dr. Meg Montañez-Davenport**  
 Doctor of Naturopathic Psychology | Healthcare Data Scientist  
 Building the next era of ethical, encrypted, AI-powered wellness.
