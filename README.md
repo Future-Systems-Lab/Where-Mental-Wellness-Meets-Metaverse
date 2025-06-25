@@ -54,11 +54,10 @@ The foundational hub for this decentralized health ecosystem. Inside: vision doc
 
 A gamified, NFT-powered mental wellness engine built for trauma recovery and behavioral reprogramming. Features include avatar-based anonymity, token-based session access, and progress through 3 healing tiers: Hypnosis, Mental Wellness, and Inner Child.
 
-### 💠 [HypnoNeuro Token](https://github.com/Where-Mental-Wellness-Meets-Metaverse/hypnoneuro-token)
+### 💠 [HypnoNeuro Token](https://github.com/Where-Mental-Wellness-Meets-Metaverse/HypnoNeuroToken)
 
 ERC-20 utility token designed to power the HypnoNeuro ecosystem. Tokens can be earned, redeemed, or traded for therapy sessions, encrypted communication, and progression through healing milestones.
 
----
 
 ## 🧬 What's Under the Hood
 
