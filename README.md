@@ -85,6 +85,7 @@ ERC-20 utility token designed to power the HypnoNeuro ecosystem. Tokens can be e
 
 **Dr. Meg Montañez-Davenport**
 Doctor of Naturopathic Psychology | Healthcare Data Scientist
+Founder of HypnoNeuro and EncryptHealth
 
 
 With over 30 years of experience in patient care and 20+ years as a licensed provider, I now focus on developing decentralized mental health systems that prioritize user sovereignty, anonymity, and access.
