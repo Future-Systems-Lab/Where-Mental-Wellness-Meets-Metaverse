@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Where-Mental-Wellness-Meets-Metaverse/Where-Mental-Wellness-Meets-Metaverse/main/Screenshot%202025-06-04%20at%2005.19.53.png" alt="Where Mental Wellness Meets the Metaverse" width="100%" />
+  <img src="https://raw.githubusercontent.com/Where-Mental-Wellness-Meets-Metaverse/Where-Mental-Wellness-Meets-Metaverse/main/logo.png" alt="Where Mental Wellness Meets the Metaverse Logo" width="100%" />
 </p>
+
 
 # 🧠 Where Mental Wellness Meets the Metaverse
 
