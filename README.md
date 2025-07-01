@@ -3,6 +3,7 @@
 </p>
 
 
+
 # 🧠 Where Mental Wellness Meets the Metaverse
 
 Welcome. I’m **Dr. Meg Montañez-Davenport**, a doctor of naturopathic psychology and healthcare data scientist building an encrypted, decentralized mental wellness ecosystem.
