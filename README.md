@@ -93,8 +93,9 @@ My academic and technical credentials include:
 
 * **Health Informatics – Johns Hopkins University**
 * **Certified Blockchain & Healthcare Professional (CBHP)** – Blockchain Council
-* **Bachelor of Science in Analytics (Data Science focus)** – in progress
-* **Advanced training in OMOP data standardization, privacy-first architectures, and smart contract systems**
+* **Advanced training in OMOP data standardization, privacy-first architectures, and smart contract systems**Doctorate in Naturopathic Psychology with a focus in Orthomolecular Psychiatry
+* **Board Certified in Holistic Nutrition
+* **Advanced neuroscience training – Duke University
 
 This work is both a personal mission and a professional rebellion—created to confront everything the current system refuses to fix: overmedication, disempowerment, centralized control, and its abandonment of the Hippocratic Oath: *first, do no harm*.
 
