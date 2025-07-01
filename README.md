@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Where-Mental-Wellness-Meets-Metaverse/Where-Mental-Wellness-Meets-Metaverse/main/logo.png" alt="Where Mental Wellness Meets Metaverse Logo" width="100%" />
+  <img src="https://raw.githubusercontent.com/Where-Mental-Wellness-Meets-Metaverse/main/logo.png" alt="Where Mental Wellness Meets Metaverse Logo" width="100%" />
 </p>
 
 
