@@ -75,3 +75,8 @@ This ecosystem is my **personal mission and professional rebellion** to restore 
 Not open source. Published for strategic collaboration, stakeholder review, and visibility.
 
 📧 **Contact:** dr.meg.data.scientist@gmail.com
+
+## 📊 VITA Token Dashboard — Live on Dune
+
+[![VITA Token Dashboard Preview](https://dune.com/embed/dr_meg/vita-dashboard?theme=light)](https://dune.com/dr_meg/vita-dashboard)
+
