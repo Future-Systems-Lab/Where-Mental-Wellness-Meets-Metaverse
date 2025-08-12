@@ -1,11 +1,3 @@
-cd ~/Where-Mental-Wellness-Meets-Metaverse
-
-# Backup old README
-mkdir -p .github/profile/backup
-cp .github/profile/README.md .github/profile/backup/README_$(date +%Y%m%d%H%M%S).md
-
-# Overwrite with updated README
-cat > .github/profile/README.md << 'EOF'
 # 🧠 Where Mental Wellness Meets the Metaverse
 
 Welcome. I’m **Dr. Meg Montañez-Davenport** — a doctor of naturopathic psychology and healthcare data scientist building an **encrypted, decentralized mental wellness ecosystem**.
