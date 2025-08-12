@@ -80,3 +80,7 @@ Not open source. Published for strategic collaboration, stakeholder review, and 
 
 [![VITA Token Dashboard Preview](https://dune.com/embed/dr_meg/vita-dashboard?theme=light)](https://dune.com/dr_meg/vita-dashboard)
 
+
+## 📊 VITA Token Dashboard — Live on Dune
+
+[![VITA Token Dashboard Preview](https://dune.com/embed/dr_meg/vita-dashboard?theme=light)](https://dune.com/dr_meg/vita-dashboard)
