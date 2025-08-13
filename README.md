@@ -1,7 +1,6 @@
 ![Futuristic Brain Network](assets/header.jpg)
 <p align="center">
-  <img src="./logo.png" alt="Where Mental Wellness Meets Metaverse Logo" width="100%" />
-</p>
+
 
 
 # 🧠 Where Mental Wellness Meets the Metaverse
