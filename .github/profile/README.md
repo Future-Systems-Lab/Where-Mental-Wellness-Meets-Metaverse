@@ -84,3 +84,7 @@ Not open source. Published for strategic collaboration, stakeholder review, and 
 ## 📊 VITA Token Dashboard — Live on Dune
 
 [![VITA Token Dashboard Preview](https://dune.com/embed/dr_meg/vita-dashboard?theme=light)](https://dune.com/dr_meg/vita-dashboard)
+
+## 💠 Patient Participation Tokenomics Model
+
+Repo: https://github.com/Where-Mental-Wellness-Meets-Metaverse/tokenomics-patient-consistency

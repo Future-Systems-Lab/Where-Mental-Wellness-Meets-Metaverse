@@ -1,6 +1,6 @@
 ![Futuristic Brain Network](assets/header.jpg)
 <p align="center">
-
+</p>
 
 
 # 🧠 Where Mental Wellness Meets the Metaverse
@@ -85,3 +85,23 @@ Contact: **dr.meg.data.scientist@gmail.com**
 ## 📊 VITA Token Dashboard — Live on Dune
 
 [![VITA Token Dashboard Preview](https://dune.com/embed/dr_meg/vita-dashboard?theme=light)](https://dune.com/dr_meg/vita-dashboard)
+
+## 🔐 Hyperledger Aries — Healthcare VC Examples (Non-PHI)
+
+PR: https://github.com/bcgov/aries-vcr/pull/811
+
+## 💠 Patient Participation Tokenomics Model
+
+Repo: https://github.com/Where-Mental-Wellness-Meets-Metaverse/tokenomics-patient-consistency
+
+## 📊 VITA Token Dashboard — Live on Dune
+
+https://dune.com/dr_meg/vita-dashboard
+
+## 🔐 Hyperledger Aries — Healthcare VC Examples (Non-PHI)
+
+https://github.com/bcgov/aries-vcr/pull/811
+
+## 💠 Patient Participation Tokenomics Model
+
+https://github.com/Where-Mental-Wellness-Meets-Metaverse/tokenomics-patient-consistency
