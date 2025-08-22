@@ -2,12 +2,12 @@
   <img src="assets/header.jpg" alt="Futuristic Brain Network">
 </p>
 
-# 🧠 Where Mental Wellness Meets the Metaverse
+🧠 Where Mental Wellness Meets the Metaverse  
 
+Welcome. I’m Dr. Meg Montañez-Davenport — a **practitioner turned builder** and **Digital Health & Web3 Architect** developing an encrypted, decentralized mental wellness ecosystem.  
 
-Welcome. I’m **Dr. Meg Montañez-Davenport**, a Digital Health & Web3 Architect building an encrypted, decentralized mental wellness ecosystem.
+This ecosystem combines Web3, AI, gamification, and trauma-informed care to deliver private, user-directed, and scalable mental health support.  
 
-This ecosystem unites **Web3, AI, gamification, and trauma-informed care** to create **private, user-directed, scalable mental health support.**
 
 ---
 
