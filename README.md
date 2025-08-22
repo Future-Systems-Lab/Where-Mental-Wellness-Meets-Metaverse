@@ -8,6 +8,9 @@ Welcome. I’m Dr. Meg Montañez-Davenport — a **practitioner turned builder**
 
 This ecosystem combines Web3, AI, gamification, and trauma-informed care to deliver private, user-directed, and scalable mental health support.  
 
+🔗 Built on the therapeutic foundation and business model of the Naturopathic Psychology & Hypnosis Center — see [hypnosispsych.com](https://hypnosispsych.com) for core modalities and ethos.  
+ 
+
 
 ---
 
