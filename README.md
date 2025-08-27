@@ -37,37 +37,32 @@ With 30+ years of patient care experience and 20+ years as a licensed provider, 
 
 ---
 
-## 📊 VITA Token Dashboard — Live on Dune
-- [View dashboard on Dune](https://dune.com/dr_meg/vita-dashboard)  
 
 ---
 
-## 🔐 Hyperledger Aries — Healthcare VC Examples (Non-PHI)
-PR: https://github.com/bcgov/aries-vcr/pull/811  
 
 ---
 
-## 💠 Patient Participation Tokenomics Model
-Repo: https://github.com/Where-Mental-Wellness-Meets-Metaverse/tokenomics-patient-participation  
 
 ---
 
 ## 🌍 Open Source Contributions (2025)
-- **OpenMRS:** FHIR2 PR #577 — https://github.com/openmrs/openmrs-module-fhir2/pull/577  
-- **Synthea:** JDK LTS docs — https://github.com/synthetichealth/synthea/pull/1608  
-- **zkReference:** formatting — https://github.com/zkpstandard/zkreference/pull/52  
-- **Panacea Core:** install guide — https://github.com/medibloc/panacea-core/pull/709  
-- **Balancer V2:** math ref — https://github.com/balancer/balancer-v2-monorepo/pull/2605  
-- **Cosmos SDK:** docs link — https://github.com/cosmos/cosmos-sdk/pull/25273  
-- **OpenZeppelin Contracts:** ReentrancyGuard link — https://github.com/OpenZeppelin/openzeppelin-contracts/pull/5889  
+- VITA Token Dashboard — https://dune.com/dr_meg/vita-dashboard
+- OpenMRS: FHIR2 PR #577 — https://github.com/openmrs/openmrs-module-fhir2/pull/577
+- Synthea: JDK LTS docs — https://github.com/synthetichealth/synthea/pull/1608
+- zkReference: formatting — https://github.com/zkpstandard/zkreference/pull/52
+- Panacea Core: install guide — https://github.com/medibloc/panacea-core/pull/709
+- Balancer V2: math ref — https://github.com/balancer/balancer-v2-monorepo/pull/2605
+- Cosmos SDK: docs link — https://github.com/cosmos/cosmos-sdk/pull/25273
+- OpenZeppelin Contracts: ReentrancyGuard link — https://github.com/OpenZeppelin/openzeppelin-contracts/pull/5889
+- Hyperledger Aries: Healthcare VC Examples (Non-PHI) — https://github.com/bcgov/aries-vcr/pull/811
+- Patient Participation Tokenomics Model — https://github.com/Where-Mental-Wellness-Meets-Metaverse/tokenomics-patient-consistency
 
----
+## License
+© 2025 Dr. Meg Montañez-Davenport. All rights reserved.
 
-## 📜 License
-© 2025 Dr. Meg Montañez-Davenport. All rights reserved.  
+This repository and all contents, including code, architecture, branding, and research, are protected under intellectual property laws. Unauthorized use is prohibited.
 
-This repository and all contents, including code, architecture, branding, and research, are protected under intellectual property laws. Unauthorized use is prohibited.  
+Not open source. Published for strategic collaboration, stakeholder review, and visibility.
 
-_Not open source._ Published for strategic collaboration, stakeholder review, and visibility.  
-
-Contact: **dr.meg.data.scientist@gmail.com**
+Contact: dr.meg.data.scientist@gmail.com
