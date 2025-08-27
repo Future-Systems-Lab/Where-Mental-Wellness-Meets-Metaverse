@@ -19,7 +19,7 @@ A gamified, NFT-powered platform providing structured trauma recovery and mental
 
 ---
 
-## 👩‍⚕️ About Me
+## 👩🏽‍💻 About Me
 **Dr. Meg Montañez-Davenport**  
 Digital Health & Web3 Architect • Founder of HypnoNeuro & EncryptHealth  
 
