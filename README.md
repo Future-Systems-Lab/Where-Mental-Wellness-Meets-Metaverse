@@ -37,12 +37,14 @@ Doctor of Naturopathic Psychology | Healthcare Data Scientist | Ecosystem Archit
 With 30+ years of patient care experience and 20+ years as a licensed provider, I now focus on building **decentralized mental health systems that prioritize privacy, autonomy, and measurable healing**.  
 
 **Credentials:**  
+- CISA: Certified Information Systems Auditor — Packt  
+- Certified Blockchain & Healthcare Professional (CBHP) — Blockchain Council  
 - Doctorate in Naturopathic Psychology (Orthomolecular Psychiatry)  
 - Board Certified in Holistic Nutrition  
-- Advanced Neuroscience Training — Duke University  
 - Health Informatics — Johns Hopkins University  
-- Certified Blockchain & Healthcare Professional (CBHP) — Blockchain Council  
-- Advanced training in privacy-first data systems and smart contracts  
+- Advanced Neuroscience Training — Duke University  
+- IBM Cybersecurity Analyst Certificate (4/14 courses completed)  
+ 
 
 ---
 
