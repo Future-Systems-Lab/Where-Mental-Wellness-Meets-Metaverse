@@ -12,14 +12,15 @@ Where Mental Wellness Meets the Metaverse is a **modular infrastructure** design
 
 ## 🌟 Featured Projects
 
+🔐 **Secure Health Login**  
+A vertical demo app integrating EIP-712 login, ERC-4337 smart accounts, and healthcare-specific wallet connect features for patient/provider authentication.
+
 🔒 **EncryptHealth**  
 A decentralized, encrypted health communication system replacing insecure email and portals while enabling trauma-informed practitioner collaboration.
 
 🧠 **HypnoNeuro**  
 A gamified, NFT-powered platform providing structured trauma recovery and mental wellness pathways within a private, user-controlled environment.
 
-🔐 **Secure Health Login**  
-A vertical demo app integrating EIP-712 login, ERC-4337 smart accounts, and healthcare-specific wallet connect features for patient/provider authentication.
 
 ---
 
