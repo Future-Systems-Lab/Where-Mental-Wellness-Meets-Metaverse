@@ -39,8 +39,7 @@ With 30+ years of patient care experience and 20+ years as a licensed provider, 
 ---
 
 ### 🛡️ Governance & Security  
-- **CISA** — Certified Information Systems Auditor (Packt)  
-- **IBM Cybersecurity Analyst Certificate**   
+- **CISA** — Certified Information Systems Auditor (Packt)    
 
 ### 🔗 Blockchain & Digital Health  
 - **CBHP** — Certified Blockchain & Healthcare Professional (Blockchain Council)  
