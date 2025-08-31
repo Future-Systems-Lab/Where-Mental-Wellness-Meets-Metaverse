@@ -1,12 +1,16 @@
-## 🛠️ What This Ecosystem Includes
-Where Mental Wellness Meets the Metaverse is a **modular infrastructure** designed to support:
+## 🛠️ What This Ecosystem Includes  
 
-- ✅ Encrypted health communications  
-- ✅ Gamified behavioral reprogramming tools  
-- ✅ Decentralized record management  
-- ✅ Anonymity-preserving practitioner collaboration  
-- ✅ Tokenized rewards for healing milestones  
-- ✅ Data sovereignty for research participation without exposure  
+Where Mental Wellness Meets the Metaverse is a modular infrastructure designed to support:  
+
+1. ✅ **Data sovereignty for research participation without exposure**  
+2. ✅ **Decentralized record management**  
+3. ✅ **Encrypted health communications**  
+4. ✅ **Standards alignment with FHIR/HL7 and DID-based consent**  
+5. ✅ **Identity & access control (EIP-712, OIDC, wallet authentication)**  
+6. ✅ **Anonymity-preserving practitioner collaboration**  
+7. ✅ **Tokenized rewards for healing milestones**  
+8. ✅ **Gamified behavioral reprogramming tools**  
+ 
 
 ---
 
