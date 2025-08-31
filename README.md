@@ -28,30 +28,31 @@ A gamified, NFT-powered platform providing structured trauma recovery and mental
 
 ---
 
-## 👩🏽‍💻 About Me
+## 👩🏽‍💻 About Me  
 **Dr. Meg Montañez-Davenport**  
 Digital Health & Web3 Architect • Founder of HypnoNeuro & EncryptHealth  
 
 Doctor of Naturopathic Psychology | Healthcare Data Scientist | Ecosystem Architect  
 
-With 30+ years of patient care experience and 20+ years as a licensed provider, I now focus on building **decentralized mental health systems that prioritize privacy, autonomy, and measurable healing**.  
+With 30+ years of patient care experience and 20+ years as a licensed provider, I now focus on building decentralized mental health systems that prioritize **privacy, autonomy, interoperability, and measurable healing outcomes**.  
 
-**Governance & Security**  
-- CISA: Certified Information Systems Auditor — Packt  
-- IBM Cybersecurity Analyst Certificate (4/14 courses completed)  
+---
 
-**Blockchain & Digital Health**  
-- Certified Blockchain & Healthcare Professional (CBHP) — Blockchain Council  
+### 🛡️ Governance & Security  
+- **CISA** — Certified Information Systems Auditor (Packt)  
+- **IBM Cybersecurity Analyst Certificate**   
 
-**Healthcare & Clinical Sciences**  
-- Doctorate in Naturopathic Psychology (Orthomolecular Psychiatry)  
-- Board Certified in Holistic Nutrition  
-- Advanced Neuroscience Training — Duke University  
+### 🔗 Blockchain & Digital Health  
+- **CBHP** — Certified Blockchain & Healthcare Professional (Blockchain Council)  
 
-**Health Informatics & Analytics**  
-- Health Informatics — Johns Hopkins University  
+### 🧠 Healthcare & Clinical Sciences  
+- **Doctorate** — Naturopathic Psychology (Orthomolecular Psychiatry)  
+- **Board Certified** — Holistic Nutrition  
+- **Advanced Training** — Neuroscience (Duke University)  
 
- 
+### 📊 Health Informatics & Analytics  
+- **Health Informatics** — Johns Hopkins University   
+
 
 ---
 
