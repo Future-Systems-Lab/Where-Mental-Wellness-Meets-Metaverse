@@ -47,29 +47,44 @@ In addition to the public projects listed above, I maintain two private reposito
 ---
 
 ## 👩🏽‍💻 About Me  
-**Dr. Meg Montañez-Davenport**  
+Dr. Meg Montañez-Davenport  
 **Web3 PM & Digital Health Architect** · Founder of **HypnoNeuro** & **EncryptHealth**  
 
-I build decentralized healthcare apps that integrate **data sovereignty, encrypted workflows, and tokenized wellness programs**.  
+I build decentralized healthcare apps that deliver **data sovereignty**, **encrypted workflows**, and **tokenized wellness programs**.  
 
 ---
 
 ## ⚡ Projects  
-- **HypnoNeuro** → Gamified therapy modules & NFT progress tracking  
-- **EncryptHealth** → Encrypted health data exchange with DID-based consent  
-- **Secure Health Login** → EIP-712 wallet authentication for healthcare  
+- **HypnoNeuro** → Gamified therapy modules & NFT progress tracking *(🔐 private, access on request)*  
+- **EncryptHealth** → Encrypted health data exchange with DID-based consent *(🔐 private, access on request)*  
+- [**Secure Health Login**](https://secure-health-login.vercel.app) → EIP-712 wallet authentication for healthcare (production-ready demo)  
+- [**EncryptHealth Open Source**](https://github.com/Where-Mental-Wellness-Meets-Metaverse/encrypthealth-open-source) → Privacy & compliance tooling  
 
 ---
 
-## 🔐 Security & Standards  
+## 🔐 Private Repos Available on Request  
+HypnoNeuro and EncryptHealth are private builds — accessible for recruitment and collaboration purposes.  
+
+---
+
+## 🔧 Security & Standards  
 - Contributor: CNCF TAG-Security (regulated healthcare guidance)  
 - Open source: OpenMRS · MyData DID Consent  
-- Focus: **FHIR/HL7 · OIDC · ZKPs · HIPAA-aligned privacy**  
+- Focus: FHIR/HL7 · OIDC · ZKPs · HIPAA-aligned privacy  
 
 ---
 
 ## 🚀 What I Deliver  
 I translate healthcare ideas into **working blockchain prototypes**, blending product management + architecture to drive secure adoption of decentralized identity and data models.  
+
+---
+
+## 🔗 Live Demo  
+- [Secure Health Login](https://secure-health-login.vercel.app) → Wallet login layer using SIWE (EIP-712) + EIP-4337, deployed on Vercel with real-time analytics.  
+- [Real-time Analytics Dashboard](https://dune.com/queries/5617988) → Dune dashboard tracking live login/session data.  
+
+
+
 
 ---
 
