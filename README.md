@@ -81,9 +81,7 @@ I translate healthcare ideas into **working blockchain prototypes**, blending pr
 
 ## 🔗 Live Demo  
 - [Secure Health Login](https://secure-health-login.vercel.app) → Wallet login layer using SIWE (EIP-712) + EIP-4337, deployed on Vercel with real-time analytics.  
-- [Real-time Analytics Dashboard](https://dune.com/queries/5617988) → Dune dashboard tracking live login/session data.  
-
-
+- [Real-time Analytics](https://dune.com/queries/5617988) → Interactive dashboard powered by Dune.  
 
 
 ---
