@@ -46,34 +46,36 @@ In addition to the public projects listed above, I maintain two private reposito
 
 ---
 
-👩🏽‍💻 **About Me**  
-Dr. Meg Montañez-Davenport  
-**Web3 PM & Digital Health Architect** • Founder of HypnoNeuro & EncryptHealth  
+## 👩🏽‍💻 About Me  
+**Dr. Meg Montañez-Davenport**  
+**Web3 PM & Digital Health Architect** · Founder of **HypnoNeuro** & **EncryptHealth**  
 
 I build decentralized healthcare apps that integrate **data sovereignty, encrypted workflows, and tokenized wellness programs**.  
 
 ---
 
-🛠️ **Projects**  
-- **HypnoNeuro** → gamified therapy modules & NFT progress tracking  
-- **EncryptHealth** → encrypted health data exchange with DID-based consent  
+## ⚡ Projects  
+- **HypnoNeuro** → Gamified therapy modules & NFT progress tracking  
+- **EncryptHealth** → Encrypted health data exchange with DID-based consent  
 - **Secure Health Login** → EIP-712 wallet authentication for healthcare  
 
 ---
 
-🔐 **Security & Standards**  
+## 🔐 Security & Standards  
 - Contributor: CNCF TAG-Security (regulated healthcare guidance)  
-- Open source: OpenMRS • MyData DID Consent  
-- Focus: FHIR/HL7 • OIDC • ZKPs • HIPAA-aligned privacy  
+- Open source: OpenMRS · MyData DID Consent  
+- Focus: **FHIR/HL7 · OIDC · ZKPs · HIPAA-aligned privacy**  
 
 ---
 
-🚀 **What I Deliver**  
-I translate healthcare ideas into **working blockchain prototypes**, blending product management + architecture to push secure adoption of decentralized identity and data models.  
+## 🚀 What I Deliver  
+I translate healthcare ideas into **working blockchain prototypes**, blending product management + architecture to drive secure adoption of decentralized identity and data models.  
 
 ---
 
-🔗 Selected repos available on request (HypnoNeuro, EncryptHealth)
+📌 *Selected repos available on request (HypnoNeuro, EncryptHealth)*  
+🛠️ Production-ready wallet login layer: **SIWE (EIP-712) + EIP-4337**, deployed on Vercel with real-time Dune analytics.  
+
 ) — production-ready wallet login layer using SIWE (EIP-712) + EIP-4337, deployed on Vercel with real-time Dune analytics.  
 
 ---
