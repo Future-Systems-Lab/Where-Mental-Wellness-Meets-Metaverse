@@ -46,15 +46,35 @@ In addition to the public projects listed above, I maintain two private reposito
 
 ---
 
-👩🏽‍💻 About Me  
+👩🏽‍💻 **About Me**  
 Dr. Meg Montañez-Davenport  
-Digital Health & Web3 Architect • Founder of HypnoNeuro & EncryptHealth  
+**Web3 PM & Digital Health Architect** • Founder of HypnoNeuro & EncryptHealth  
 
-Doctor of Naturopathic Psychology | Healthcare Data Scientist | Ecosystem Architect  
+I build decentralized healthcare apps that integrate **data sovereignty, encrypted workflows, and tokenized wellness programs**.  
 
-With 30+ years of patient care experience and 20+ years as a licensed provider, I now focus on building decentralized mental health systems that prioritize privacy, autonomy, interoperability, and measurable healing outcomes.  
+---
 
-🚀 Recent Build: [Secure Health Login](https://secure-health-login.vercel.app) — production-ready wallet login layer using SIWE (EIP-712) + EIP-4337, deployed on Vercel with real-time Dune analytics.  
+🛠️ **Projects**  
+- **HypnoNeuro** → gamified therapy modules & NFT progress tracking  
+- **EncryptHealth** → encrypted health data exchange with DID-based consent  
+- **Secure Health Login** → EIP-712 wallet authentication for healthcare  
+
+---
+
+🔐 **Security & Standards**  
+- Contributor: CNCF TAG-Security (regulated healthcare guidance)  
+- Open source: OpenMRS • MyData DID Consent  
+- Focus: FHIR/HL7 • OIDC • ZKPs • HIPAA-aligned privacy  
+
+---
+
+🚀 **What I Deliver**  
+I translate healthcare ideas into **working blockchain prototypes**, blending product management + architecture to push secure adoption of decentralized identity and data models.  
+
+---
+
+🔗 Selected repos available on request (HypnoNeuro, EncryptHealth)
+) — production-ready wallet login layer using SIWE (EIP-712) + EIP-4337, deployed on Vercel with real-time Dune analytics.  
 
 ---
 
