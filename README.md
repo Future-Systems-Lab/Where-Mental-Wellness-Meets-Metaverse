@@ -54,20 +54,17 @@ I build decentralized healthcare apps that deliver **data sovereignty**, **encry
 
 ---
 
-## ⚡ Projects  
-- **HypnoNeuro** → Gamified therapy modules & NFT progress tracking *(🔐 private, access on request)*  
-- **EncryptHealth** → Encrypted health data exchange with DID-based consent *(🔐 private, access on request)*  
+## 📂 Projects  
 - [**Secure Health Login**](https://secure-health-login.vercel.app) → EIP-712 wallet authentication for healthcare (production-ready demo)  
 - [**EncryptHealth Open Source**](https://github.com/Where-Mental-Wellness-Meets-Metaverse/encrypthealth-open-source) → Privacy & compliance tooling  
 
+🔐 **Private Builds (available on request)**  
+- **HypnoNeuro** → Gamified therapy modules & NFT progress tracking  
+- **EncryptHealth** → Encrypted health data exchange with DID-based consent  
+
 ---
 
-## 🔐 Private Repos Available on Request  
-HypnoNeuro and EncryptHealth are private builds — accessible for recruitment and collaboration purposes.  
-
----
-
-## 🔧 Security & Standards  
+## 🛡️ Security & Standards  
 - Contributor: CNCF TAG-Security (regulated healthcare guidance)  
 - Open source: OpenMRS · MyData DID Consent  
 - Focus: FHIR/HL7 · OIDC · ZKPs · HIPAA-aligned privacy  
@@ -80,19 +77,11 @@ I translate healthcare ideas into **working blockchain prototypes**, blending pr
 ---
 
 ## 🔗 Live Demo  
-- [Secure Health Login](https://secure-health-login.vercel.app) → Wallet login layer using SIWE (EIP-712) + EIP-4337, deployed on Vercel with real-time analytics.  
-- 📊 [VITA Token Dashboard](https://dune.com/dr_meg/vita-dashboard) → Experimental wellness incentive token designed to **reward progress and retention in decentralized therapy programs**. Tracks:  
-  - Top active addresses (30d)  
-  - New wallet creation & retention  
-  - Transfers and engagement trends  
-
-
----
-
-📌 *Selected repos available on request (HypnoNeuro, EncryptHealth)*  
-🛠️ Production-ready wallet login layer: **SIWE (EIP-712) + EIP-4337**, deployed on Vercel with real-time Dune analytics.  
-
-) — production-ready wallet login layer using SIWE (EIP-712) + EIP-4337, deployed on Vercel with real-time Dune analytics.  
+- 🛡️[**Secure Health Login**](https://secure-health-login.vercel.app) → Wallet login layer using SIWE (EIP-712) + EIP-4337, deployed on Vercel with real-time analytics.  
+- 📊 [**VITA Token Dashboard**](https://dune.com/dr_meg/vita-dashboard) → Experimental wellness incentive token designed to **reward progress and retention** in decentralized therapy programs.  
+   - Tracks top active addresses (30d)  
+   - New wallet creation & retention  
+   - Transfers and engagement trends  
 
 ---
 
@@ -109,16 +98,6 @@ I translate healthcare ideas into **working blockchain prototypes**, blending pr
 
 ### 📊 Health Informatics & Analytics  
 - **Health Informatics** — Johns Hopkins University   
-
-
----
-
-
----
-
-
----
-
 
 ---
 
