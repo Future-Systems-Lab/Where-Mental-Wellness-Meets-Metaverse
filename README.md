@@ -31,19 +31,6 @@ Where Mental Wellness Meets the Metaverse is a modular infrastructure designed t
 - [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Where-Mental-Wellness-Meets-Metaverse)  
   Umbrella ecosystem repo (docs + roadmap).
 
-## 🔒 Additional Private Repositories
-
-In addition to the public projects listed above, I maintain two private repositories with complete working builds:
-
-- ✅ **HypnoNeuro** → Gamified decentralized mental wellness platform.  
-   (NFT certificates, tokenized healing milestones, therapy program modules.)
-
-- ✅ **EncryptHealth** → Privacy-first healthcare data system.  
-   (Blockchain-secured consent, HL7/FHIR integration, HIPAA-oriented design.)
-
-📌 Access available upon request for recruitment and collaboration purposes.
-
-
 ---
 
 ## 👩🏽‍💻 About Me  
