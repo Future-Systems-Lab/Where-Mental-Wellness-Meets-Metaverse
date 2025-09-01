@@ -35,13 +35,15 @@ Where Mental Wellness Meets the Metaverse is a modular infrastructure designed t
 
 ---
 
-## 👩🏽‍💻 About Me  
-**Dr. Meg Montañez-Davenport**  
+👩🏽‍💻 About Me  
+Dr. Meg Montañez-Davenport  
 Digital Health & Web3 Architect • Founder of HypnoNeuro & EncryptHealth  
 
 Doctor of Naturopathic Psychology | Healthcare Data Scientist | Ecosystem Architect  
 
-With 30+ years of patient care experience and 20+ years as a licensed provider, I now focus on building decentralized mental health systems that prioritize **privacy, autonomy, interoperability, and measurable healing outcomes**.  
+With 30+ years of patient care experience and 20+ years as a licensed provider, I now focus on building decentralized mental health systems that prioritize privacy, autonomy, interoperability, and measurable healing outcomes.  
+
+🚀 Recent Build: [Secure Health Login](https://secure-health-login.vercel.app) — production-ready wallet login layer using SIWE (EIP-712) + EIP-4337, deployed on Vercel with real-time Dune analytics.  
 
 ---
 
