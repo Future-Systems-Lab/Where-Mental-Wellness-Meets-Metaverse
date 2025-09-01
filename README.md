@@ -16,14 +16,21 @@ Where Mental Wellness Meets the Metaverse is a modular infrastructure designed t
 
 ## 🌟 Featured Projects
 
-🛡️ **Secure Health Login**  
-A vertical demo app integrating EIP-712 login, ERC-4337 smart accounts, and healthcare-specific wallet connect features for patient/provider authentication.
+- [Secure Health Login](https://github.com/Where-Mental-Wellness-Meets-Metaverse/secure-health-login)  
+  Stable EIP-712 wallet login demo with clickable buttons (tag: `stable-login-ok-2025-08-31`).
 
-🔒 **EncryptHealth**  
-A decentralized, encrypted health communication system replacing insecure email and portals while enabling trauma-informed practitioner collaboration.
+- [EncryptHealth Open Source](https://github.com/Where-Mental-Wellness-Meets-Metaverse/encrypthealth-open-source)  
+  Contributions index repo for healthcare privacy + compliance tooling.
 
-🧠 **HypnoNeuro**  
-A gamified, NFT-powered platform providing structured trauma recovery and mental wellness pathways within a private, user-controlled environment.
+- [Aries VCR](https://github.com/Where-Mental-Wellness-Meets-Metaverse/aries-vcr)  
+  Healthcare verifiable credentials integration.
+
+- [MyData DID Consent](https://github.com/Where-Mental-Wellness-Meets-Metaverse/mydata-did-consent)  
+  DID-based consent templates + OIDC4VP definitions.
+
+- [Where-Mental-Wellness-Meets-Metaverse](https://github.com/Where-Mental-Wellness-Meets-Metaverse)  
+  Umbrella ecosystem repo (docs + roadmap).
+
 
 
 ---
@@ -64,28 +71,25 @@ With 30+ years of patient care experience and 20+ years as a licensed provider, 
 
 ---
 
-## 🌐 Open Source Contributions (2025)
+## 🌐 Open Source Contributions
 
-### Blockchain & DeFi
-- Ethereum EIPs: formatting fix — [ethereum/EIPs](https://github.com/ethereum/EIPs/pull/new/docs/fix-typo)  
+### 🔒 Governance & Security
+- OpenZeppelin Contracts: ReentrancyGuard clarification — [openzeppelin-contracts#5889](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/5889)  
+- Cosmos SDK: docs link — [cosmos-sdk#25273](https://github.com/cosmos/cosmos-sdk/pull/25273)  
+
+### ⛓️ Blockchain & Digital Health
+- Ethereum EIPs: formatting fix — [ethereum/EIPs#7786](https://github.com/ethereum/EIPs/pull/7786)  
 - Uniswap v3-core: invariant test note — [Uniswap/v3-core#1052](https://github.com/Uniswap/v3-core/pull/1052)  
-- Balancer V2: math ref — [balancer/balancer-v2-monorepo#2605](https://github.com/balancer/balancer-v2-monorepo/pull/2605)  
-- Cosmos SDK: docs link — [cosmos/cosmos-sdk#25273](https://github.com/cosmos/cosmos-sdk/pull/25273)  
-- OpenZeppelin Contracts: ReentrancyGuard clarification — [OpenZeppelin/openzeppelin-contracts#5889](https://github.com/OpenZeppelin/openzeppelin-contracts/pull/5889)  
+- Balancer V2: math ref — [balancer-v2#2605](https://github.com/balancer/balancer-v2-monorepo/pull/2605)  
 - VITA Token Dashboard — [dune.com/dr_meg/vita-dashboard](https://dune.com/dr_meg/vita-dashboard)  
 - Patient Participation Tokenomics Model — [tokenomics-patient-consistency](https://github.com/Where-Mental-Wellness-Meets-Metaverse/tokenomics-patient-consistency)  
+- Secure Health Login (stable EIP-712 wallet login) — [secure-health-login](https://github.com/Where-Mental-Wellness-Meets-Metaverse/secure-health-login/tree/stable-login-ok-2025-08-31)  
+- EncryptHealth Open Source (contribution index) — [encrypthealth-open-source](https://github.com/Where-Mental-Wellness-Meets-Metaverse/encrypthealth-open-source)  
 
-### Healthcare & Interoperability
-- OpenMRS FHIR2 PR #577 — [openmrs/openmrs-module-fhir2#577](https://github.com/openmrs/openmrs-module-fhir2/pull/577)  
-- OpenMRS Core: Consent & DID note — [openmrs/openmrs-core](https://github.com/Where-Mental-Wellness-Meets-Metaverse/openmrs-core/pull/new/docs/consent-did-note)  
-- Synthea: JDK LTS docs — [synthetichealth/synthea#1608](https://github.com/synthetichealth/synthea/pull/1608)  
-- Panacea Core: install guide — [medibloc/panacea-core#709](https://github.com/medibloc/panacea-core/pull/709)  
-- Medblocks-UI: OIDC4VP consent VC example — [medblocks-ui](https://github.com/Where-Mental-Wellness-Meets-Metaverse/medblocks-ui/pull/new/docs/consent-vc-oidc4vp)  
-
-### Identity & Standards
-- Presentation-Exchange: consent schema note — [presentation-exchange](https://github.com/Where-Mental-Wellness-Meets-Metaverse/presentation-exchange/pull/new/docs/consent-schema-note)  
-- Hyperledger Aries: Healthcare VC Examples (Non-PHI) — [bcgov/aries-vcr#811](https://github.com/bcgov/aries-vcr/pull/811)  
-- zkReference: formatting — [zkpstandard/zkreference#52](https://github.com/zkpstandard/zkreference/pull/52)  
+### 🏥 Healthcare & Interoperability
+- OpenMRS FHIR2: DID Consent & HL7/FHIR alignment — [openmrs-module-fhir2#577](https://github.com/openmrs/openmrs-module-fhir2/pull/577)  
+- Synthea: JDK LTS docs — [synthea#1608](https://github.com/synthetichealth/synthea/pull/1608)  
+- Panacea Core: install guide — [panacea-core#709](https://github.com/medibloc/panacea-core/pull/709)  
 
 
 
