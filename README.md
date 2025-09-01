@@ -80,8 +80,11 @@ I translate healthcare ideas into **working blockchain prototypes**, blending pr
 ---
 
 ## 🔗 Live Demo  
-- 🛡️ [Secure Health Login](https://secure-health-login.vercel.app) → Wallet login layer using SIWE (EIP-712) + EIP-4337, deployed on Vercel with real-time analytics.  
-- 📊 [VITA Token Activity Dashboard](https://dune.com/dr_meg/vita-dashboard) → Real-time analytics via Dune.  
+- [Secure Health Login](https://secure-health-login.vercel.app) → Wallet login layer using SIWE (EIP-712) + EIP-4337, deployed on Vercel with real-time analytics.  
+- 📊 [VITA Token Dashboard](https://dune.com/dr_meg/vita-dashboard) → Experimental wellness incentive token designed to **reward progress and retention in decentralized therapy programs**. Tracks:  
+  - Top active addresses (30d)  
+  - New wallet creation & retention  
+  - Transfers and engagement trends  
 
 
 ---
