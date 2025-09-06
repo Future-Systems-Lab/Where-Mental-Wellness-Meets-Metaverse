@@ -13,15 +13,6 @@ Where Mental Wellness Meets the Metaverse is a modular infrastructure designed t
 9. ✅ **Preservation of legacy wellness content (archived website integration)**  
 
 
-
-
-
-
-
-Ask ChatGPT
-
- 
-
 ---
 
 ## 🌟 Featured Projects
