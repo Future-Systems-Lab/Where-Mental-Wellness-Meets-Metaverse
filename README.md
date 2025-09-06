@@ -34,7 +34,7 @@ Where Mental Wellness Meets the Metaverse is a modular infrastructure designed t
 
 ---
 
-**Headline**  
+# 👩🏽‍💻 About Me
 Dr. Meg Montañez-Davenport  
 Web3 Product Manager & Digital Health Architect  
 
