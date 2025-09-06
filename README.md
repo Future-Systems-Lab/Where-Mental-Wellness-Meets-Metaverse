@@ -36,9 +36,9 @@ Where Mental Wellness Meets the Metaverse is a modular infrastructure designed t
 
 ## 👩🏽‍💻 About Me  
 Dr. Meg Montañez-Davenport  
-**Web3 PM & Digital Health Architect** · Founder of **HypnoNeuro** & **EncryptHealth**  
+Web3 Product Manager & Digital Health Architect  
 
-I build decentralized healthcare apps that deliver **data sovereignty**, **encrypted workflows**, and **tokenized wellness programs**.  
+I design decentralized healthcare ecosystems that enable data sovereignty, secure communications, and tokenized mental-wellness engagement.    
 
 ---
 
