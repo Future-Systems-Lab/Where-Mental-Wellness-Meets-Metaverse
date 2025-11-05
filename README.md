@@ -1,36 +1,41 @@
-# Where Mental Wellness Meets the Metaverse
+# 🌐 Where Mental Wellness Meets Metaverse
 
-End-to-end mental-wellness ecosystem built with **analytics**, **blockchain**, and **governance**.
+### 🧭 Overview
+This repository anchors the earliest prototype of the **HypnoNeuro** and **EncryptHealth** ecosystem—an exploration into decentralized mental wellness, education, and healthcare analytics.  
+It connects blockchain-based learning incentives with privacy-first data management, forming the foundation for the **Future Systems Lab** portfolio.
 
-## Scope
-Identity and consent, encrypted health data, program NFTs, incentive tokens, and compliance-ready analytics.
+---
 
-## Components (this ecosystem only)
-- **EncryptHealth** — encrypted health data platform with DID-based consent.
-- **EncryptHealthToken (EHT)** — ERC-20 for secure messaging and service credits.
-- **HypnoNeuro** — mental-wellness programs with milestone-verified NFTs (L1/L2/L3).
-- **HypnoNeuroToken (HNT)** — ERC-20 for engagement and retention.
+### 🧠 Core Vision
+Empower individuals through verifiable progress, decentralized identity, and transparent mental-wellness engagement.
 
-## Capabilities
-- Wallet auth (SIWE/EIP-712) and DID consent
-- HL7/FHIR-aligned data exchange
-- Program NFTs and incentive tokens
-- Analytics for participation, outcomes, and audit trails
-- Governance: HIPAA-aligned privacy and policy controls
+- **Decentralized Identity (DID):** Secure, user-owned identity across wellness and education modules.  
+- **Consent-Based Data Exchange:** EncryptHealth enables FHIR/HL7 data interoperability with selective disclosure.  
+- **Gamified Learning:** HypnoNeuro integrates NFTs and governance tokens to validate growth milestones.  
+- **Analytics & Compliance:** Blockchain audit trails for non-PHI health and education data.
 
-## Architecture at a Glance
-User → Consent → Program → Encrypted Data → Analytics → Governance
+---
 
-## Repository
-- `README.md` — ecosystem overview
-- `assets/` — visuals for docs
-- `/.github/profile/README.md` — org profile (mirrors this overview)
+### 🪙 Token Ecosystem
 
-## Access
-All component repos are private. Access available on request.
+| HypnoNeuroToken (HNT) | OrthomolecularToken (OMT) | MindMasteryNFT – Foundation | MindMasteryNFT – Elevation | MindMasteryNFT – Ascension | EncryptHealthToken (EHT) |
+|------------------------|----------------------------|-----------------------------|-----------------------------|-----------------------------|---------------------------|
+| <img src="web/public/hypnoneurotoken.png" alt="HNT" width="140"/> | <img src="web/public/orthoMolecularCoin.png" alt="OMT" width="140"/> | <img src="web/public/mindmastery_foundation.png" alt="Foundation" width="140"/> | <img src="web/public/mindmastery_elevation.png" alt="Elevation" width="140"/> | <img src="web/public/mindmastery_ascension.png" alt="Ascension" width="140"/> | <img src="web/public/encrypthealthtoken.png" alt="EHT" width="140"/> |
 
-## Contact
-future.systems.lab@proton.me
+---
 
-## License
-© 2025 Meg Montañez-Davenport. All rights reserved. Not open source.
+### 🧩 Repositories
+- [🔐 EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) — privacy-first consent and analytics.  
+- [🧘 HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) — gamified decentralized wellness and learning.  
+- [🪄 Smart Contracts (Sepolia)](https://sepolia.etherscan.io/) — verified and published via Hardhat.  
+
+---
+
+### 🥼 About Future Systems Lab
+Future Systems Lab advances applied informatics and blockchain infrastructure for healthcare.  
+Projects focus on decentralized identity, consent-based data exchange, and analytics pipelines designed for privacy, compliance, and scalability.
+
+---
+
+### 🧾 License
+All rights reserved — unlicensed research and educational prototype.
