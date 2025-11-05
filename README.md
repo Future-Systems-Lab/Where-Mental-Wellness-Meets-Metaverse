@@ -1,4 +1,7 @@
-# 🌐 Where Mental Wellness Meets Metaverse
+# # 🌐 Where Mental Wellness Meets Metaverse
+<img src="web/public/mentalwellnessbanner.png" alt="Where Mental Wellness Meets Metaverse Banner" width="100%"/>
+
+---
 
 ### 🧭 Overview
 This repository anchors the prototype of the **HypnoNeuro** and **EncryptHealth** ecosystem—an exploration into decentralized mental wellness, education, and healthcare analytics.  
