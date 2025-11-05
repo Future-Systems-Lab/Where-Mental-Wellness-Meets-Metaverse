@@ -1,7 +1,7 @@
 # 🌐 Where Mental Wellness Meets Metaverse
 
 ### 🧭 Overview
-This repository anchors the earliest prototype of the **HypnoNeuro** and **EncryptHealth** ecosystem—an exploration into decentralized mental wellness, education, and healthcare analytics.  
+This repository anchors the prototype of the **HypnoNeuro** and **EncryptHealth** ecosystem—an exploration into decentralized mental wellness, education, and healthcare analytics.  
 It connects blockchain-based learning incentives with privacy-first data management, forming the foundation for the **Future Systems Lab** portfolio.
 
 ---
@@ -33,9 +33,10 @@ Empower individuals through verifiable progress, decentralized identity, and tra
 
 ---
 
-### 🥼 About Future Systems Lab
-Future Systems Lab advances applied informatics and blockchain infrastructure for healthcare.  
-Projects focus on decentralized identity, consent-based data exchange, and analytics pipelines designed for privacy, compliance, and scalability.
+## 🥼 About Future Systems Lab
+Future Systems Lab is the research and development hub behind *Where Mental Wellness Meets Metaverse*.  
+It brings together digital health, applied informatics, and blockchain innovation to design secure, human-centered systems for wellness and education.  
+This project represents the lab’s vision—using decentralized identity, consent-driven data exchange, and verifiable analytics to connect mental wellness practices with emerging Web3 health infrastructure.
 
 ---
 
