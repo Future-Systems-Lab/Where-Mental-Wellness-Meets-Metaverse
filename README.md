@@ -1,5 +1,5 @@
- # Where Mental Wellness Meets Metaverse
-<img src="web/public/wherementalwellnessbanner.png" alt="Where Mental Wellness Meets Metaverse Banner" width="100%"/>
+# 🌐 Where Mental Wellness Meets Metaverse
+<img src="web/public/mentalwellnessbanner.png" alt="Where Mental Wellness Meets Metaverse Banner" width="100%"/>
 
 ---
 
