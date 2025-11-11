@@ -32,7 +32,14 @@ Empower individuals through verifiable progress, decentralized identity, and tra
 ### 🧩 Repositories
 - [🔐 EncryptHealth](https://github.com/Future-Systems-Lab/EncryptHealth) — privacy-first consent and analytics.  
 - [🧘🏽‍♀️ HypnoNeuro](https://github.com/Future-Systems-Lab/HypnoNeuro) — gamified decentralized wellness and learning.  
-- [🪄 Smart Contracts (Sepolia)](https://sepolia.etherscan.io/) — verified and published via Hardhat.  
+- [🪄 Smart Contracts (Sepolia)](https://sepolia.etherscan.io/address/0x411426f8E735F7940B20491609F08817A805b198) — verified deployments for HNT, EHT, and MindMasteryNFT.
+
+
+
+
+
+
+
 
 ---
 
